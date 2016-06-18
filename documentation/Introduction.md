@@ -38,9 +38,8 @@ Operating Systems
   - Fresh news from the community.
 - Documentation
   - Read Guides, HowTos and Datasheets.
-
-PROFESSIONAL SERVICES
-Emutex and AAEON can provide a range of professional services to meet your needs.
+- Professional Sevices
+  - Emutex and AAEON can provide a range of professional services to meet your needs.
 
 # Intel® RealSense™ Robotics Development Kit
 
