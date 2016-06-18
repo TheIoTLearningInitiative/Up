@@ -55,6 +55,10 @@ Operating Systems
 
 > The Intel® RealSense™ Robotics Development Kit is a bundle that features a credit card size board and an Intel® RealSense™ R200 Camera. Together, this high performance and low-power consumption combination bridges the gap between rapid prototyping and productization. [Intel® RealSense™ Developer Kits](http://click.intel.com/intelr-realsensetm-robotic-development-kit.html)
 
+# Intel® IoT Developer Kit
+
+[Intel® IoT Developer Kit v3.0](https://software.intel.com/en-us/blogs/2016/03/30/intel-iot-developer-kit-30-release-notes?utm_campaign=IHI-IoT-Q2_16&utm_medium=Syndication&utm_source=Taboola&utm_content=&utm_term=&&utm_term=cbsinteractive-cnet&utm_content=The+Intel+IoT+Developer+Kit+3.0+is+here.+Find+out+what%27s+new)
+
 # Partnerships
 
 - [UP in partnership with Predixion Software](http://www.up-board.org/kickstarter/up-in-partnership-with-predixion-software/)
