@@ -4,3 +4,5 @@
 
 # Up Shop
 
+> Bring your ideas to life with the high performance, affordable and mini form factor x86 embedded board. Meet up! [Up Shop](http://up-shop.org/)
+
