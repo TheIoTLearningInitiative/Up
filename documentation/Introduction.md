@@ -30,4 +30,4 @@ Operating Systems
 
 # Partnerships
 
-- [](http://www.up-board.org/kickstarter/up-in-partnership-with-predixion-software/)
+- [UP in partnership with Predixion Software](http://www.up-board.org/kickstarter/up-in-partnership-with-predixion-software/)
