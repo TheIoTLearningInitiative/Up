@@ -43,7 +43,12 @@ Operating Systems
 
 # Wiki
 
-> [Up Wiki aka Documentation](https://up-community.org/wiki/Main_Page)
+> The purpose of these wiki pages is to collect and share all useful technical information related to UP Board hardware, software, and its usage. Feel free to contribute content and corrections which may be useful to others! [Up Wiki aka Documentation](https://up-community.org/wiki/Main_Page)
+
+- Setup
+- Hardware
+- Software
+- Firmware
 
 # Intel® RealSense™ Robotics Development Kit
 
