@@ -28,6 +28,20 @@ Operating Systems
 
 > Join our UP Community! Share your projects! Ask questions, seek support! [Up Community](https://up-community.org/)
 
+- Forum
+  - Leave your messages here.
+- Downloads
+  - ubilinux™ and other software for UP Board.
+- Projects
+  - Coming Soon!
+- Blog
+  - Fresh news from the community.
+- Documentation
+  - Read Guides, HowTos and Datasheets.
+
+PROFESSIONAL SERVICES
+Emutex and AAEON can provide a range of professional services to meet your needs.
+
 # Intel® RealSense™ Robotics Development Kit
 
 > The Intel® RealSense™ Robotics Development Kit is a bundle that features a credit card size board and an Intel® RealSense™ R200 Camera. Together, this high performance and low-power consumption combination bridges the gap between rapid prototyping and productization. [Intel® RealSense™ Developer Kits](http://click.intel.com/intelr-realsensetm-robotic-development-kit.html)
