@@ -2,6 +2,8 @@
 
 > move Up to the next level. UP is the computer board for makers and professional makers. UP is the bridge between your hobby and your future business. [Homepage](http://www.up-board.org/)
 
+-  [Up Blog](http://www.up-board.org/blog/()
+
 Applications
 
 - Drones
