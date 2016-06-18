@@ -9,7 +9,7 @@ Applications
 - Robotics
 - Media Center
 - Internet of Things
-- 
+- Home Automation
 
 # Up Shop
 
