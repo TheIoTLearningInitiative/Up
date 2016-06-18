@@ -19,6 +19,7 @@ Operating Systems
 - Android
 - Yocto
 - Ubilinux
+- Microsoft Windows 10
 
 # Up Shop
 
