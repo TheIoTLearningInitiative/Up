@@ -9,6 +9,6 @@
 * User Space
    * [MRAA / UPM](documentation/MraaUpm.md)
 * Subsystems
-   * Audio
+   * [Audio](documentation/Audio.md)
 * Sandbox
 
