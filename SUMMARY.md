@@ -8,6 +8,6 @@
    * [Yocto](documentation/Yocto.md)
 * User Space
    * [MRAA / UPM](documentation/MraaUpm.md)
-* Sandbox
 * Subsystems
+* Sandbox
 
