@@ -7,4 +7,5 @@
 * User Space
    * [MRAA / UPM](documentation/MraaUpm.md)
 * Sandbox
+* Hardware
 
